@@ -8,3 +8,4 @@ yum install jenkins -y
 systemctl start jenkins
 systemctl status jenkins
 this is 3rd time bro
+mothaniki sadinchav ra 
